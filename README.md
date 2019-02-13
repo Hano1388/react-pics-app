@@ -1,12 +1,13 @@
-#Search for Images from Unsplash API
+# Search for Images from Unsplash API
 
 This is a React application that search through images from unsplash API
 
-##Installation
+## Installation
  - You need to have Node installed on your machine
  - clone the project or download it
  - cd to project directory
- - then run the following two commands: ```
+ - then run the following two commands: 
+ ```
  npm install
  npm start
  ```
@@ -17,4 +18,4 @@ This is a React application that search through images from unsplash API
   ```
   - then visit localhost:3000 in your browser
 
-### Note: you need to register as a developer at [unsplash-developers](https://unsplash.com/developers) get your own access key to be able to fetch images 
+Note: you need to register as a developer at [unsplash-developers](https://unsplash.com/developers) get your own access key to be able to fetch images and add the API key to your secretVariables file 
