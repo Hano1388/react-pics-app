@@ -1,0 +1,14 @@
+.image-list {
+  display: grid;
+  /* below we are specifying our grid container columns */
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  grid-gap: 10px;
+  /* grid-auto-rows is going to specify how tall(height) each different cell be */
+  grid-auto-rows: 150px;
+  /* grid-row-end specifies how many cells of heigh each element will take  */
+  /* grid-row-end: span 3; */
+}
+
+.image-list img {
+  width: 250px;
+}
