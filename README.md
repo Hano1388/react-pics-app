@@ -16,6 +16,6 @@ This is a React application that search through images from unsplash API
   yarn install
   yarn start
   ```
-  - then visit localhost:3000 in your browser
+  - then visit [localhost:3000](http://localhost:3000) in your browser
 
 Note: you need to register as a developer at [unsplash-developers](https://unsplash.com/developers) get your own access key to be able to fetch images and add the API key to your secretVariables file 
